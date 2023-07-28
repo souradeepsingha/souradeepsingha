@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-- 💬 Ask me about **web dev,Java,data science and ml**
+- 💬 Ask me about **web dev,Java, data science and ml**
 
 - 📫 How to reach me **souradeepsinghaofficial@gmail.com**
 
