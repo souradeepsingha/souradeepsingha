@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Souradeep Singha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Movie Recommender system**
+- 🔭 I’m currently working on **Cab Booking App**
 
 - 🌱 I’m currently learning **Sklearn,Devtown React course**
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-- 💬 Ask me about **web dev,Java, data science and ml**
+- 💬 Ask me about **Android Development,Java, data science and ml**
 
 - 📫 How to reach me **souradeepsinghaofficial@gmail.com**
 
