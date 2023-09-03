@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cab Booking App**
 
-- 🌱 I’m currently learning **Sklearn,Devtown React course**
+- 🌱 I’m currently learning **Android Development with Bongo Academy**
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
