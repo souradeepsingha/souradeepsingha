@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Souradeep Singha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Cab Booking App**
+- 🔭 I’m currently working on **Data Analytics and Power BI Projects through Crio Platform**
 
-- 🌱 I’m currently learning **Android Development with Bongo Academy**
+- 🌱 I’m currently learning **Data Analytics, Power BI, SQL, Excel, and Python through Crio**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 👯 I’m looking to collaborate on **Data Analytics, Business Intelligence, and Data Visualization Projects**
 
 - 💬 Ask me about **Android Development,Java, data science and ml**
 
