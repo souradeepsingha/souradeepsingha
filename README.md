@@ -10,8 +10,6 @@
 - 💬 Ask me about **Android Development,Java, data science and ml**
 
 - 📫 How to reach me **souradeep.contact@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -108,6 +106,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradeepsingha&show_icons=true&locale=en&layout=compact" alt="souradeepsingha" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souradeepsingha&show_icons=true&locale=en&layout=compact" alt="souradeepsingha" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souradeepsingha&show_icons=true&locale=en" alt="souradeepsingha" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souradeepsingha&show_icons=true&locale=en" alt="souradeepsingha" /></p> -->
