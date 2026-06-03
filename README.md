@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics, Business Intelligence, and Data Visualization Projects**
 
-- 💬 Ask me about **Android Development,Java, data science and ml**
+- 💬 Ask me about **Data science,ML AND Android Development**
 
 - 📫 How to reach me **souradeep.contact@gmail.com**
 <p align="left">
