@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data science,ML AND Android Development**
 
-- 📫 How to reach me **souradeep.contact@gmail.com**
+- 📫 How to reach me **souradeepsingha542@gmail.com**
 <p align="left">
 </p>
 
